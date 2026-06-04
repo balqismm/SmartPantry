@@ -15,6 +15,8 @@
 6. architecture (balqis)
    <p>6.1 Widget & Components Structure</p>
      <img width="495" height="326" alt="image" src="https://github.com/user-attachments/assets/be5ffd92-9bfb-48d3-a751-4559a7e56746" />
+  <br>
+  <p>6.2 State Management Approach</p>
 
 8. ⁠data model (hani)
 
